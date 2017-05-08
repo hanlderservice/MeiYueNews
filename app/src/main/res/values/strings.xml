@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">美阅新闻</string>
+
+    <string name="navigation_news">新闻</string>
+    <string name="navigation_images">图片</string>
+    <string name="navigation_weather">天气</string>
+    <string name="navigation_about">关于</string>
+    <string name="action_settings">Setting</string>
+    <string name="name">莫雨</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="drawer_close">Close</string>
+    <string name="drawer_open">Open</string>
+    <string name="top">头条</string>
+    <string name="nba">NBA</string>
+    <string name="cars">汽车</string>
+    <string name="jokes">笑话</string>
+</resources>
